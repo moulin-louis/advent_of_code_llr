@@ -83,7 +83,7 @@ fn check_range( section:[i32; 2] ) -> i32 {
 		result += 1;
 	}
 	result
-}	
+}
 
 fn main() {
 	let input:String = open_file("input");
